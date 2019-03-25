@@ -13,4 +13,6 @@ void main()
 
 
     printf("\nAcabo el programa");
+
+    return;
 }
