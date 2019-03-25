@@ -4,6 +4,10 @@
 void main()
 {
     int i,j,k;
-    double cuenta;
-    double nolose;
+    double cuenta, nolose;
+
+    for(i=0;i<10;i++)
+    {
+        
+    }
 }
