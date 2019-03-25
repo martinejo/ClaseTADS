@@ -5,4 +5,5 @@ void main()
 {
     int i,j,k;
     double cuenta;
+    double nolose;
 }
