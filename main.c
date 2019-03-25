@@ -4,4 +4,5 @@
 void main()
 {
     int i,j,k;
+    double nolose;
 }
