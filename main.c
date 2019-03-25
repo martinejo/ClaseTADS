@@ -10,4 +10,7 @@ void main()
     {
       printf("\nI = %d",i);  
     }
+
+
+    printf("\nAcabo el programa");
 }
