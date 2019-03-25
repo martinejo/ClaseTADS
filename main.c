@@ -14,6 +14,6 @@ void main()
 
 
     printf("\nAcabo el programa");
-	//COMENTARIO VACIO
+	//COMENTARIO VACIO 2
     return;
 }
