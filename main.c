@@ -12,6 +12,11 @@ int main(int argc, char * argv[])
 	{
 		printf("\nI = %d",i);  
 	}
+
+	for(j=0;j<k;j++)
+	{
+		
+	}
 	
 	return 0;
 }
