@@ -4,4 +4,4 @@ script:
   - gcc -o prueba --coverage -fprofile-arcs main.c
   - ./prueba
   - gcov main.c
-  - cat main.c.gov
+  - cat main.c.gcov
