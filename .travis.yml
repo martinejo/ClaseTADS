@@ -4,6 +4,4 @@ script:
   - gcc -o prueba --coverage -fprofile-arcs main.c
   - ./prueba
   - gcov main.c
-
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+  - cat main.c.gov
