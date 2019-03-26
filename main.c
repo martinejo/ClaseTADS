@@ -17,6 +17,7 @@ int main(int argc, char * argv[])
 	//com1
 	//com2
 	//com3
+	//com4
 	for(j=0;j<k;j++)
 	{
 		
