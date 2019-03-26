@@ -1,22 +1,24 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <Rembeded.h>
+#include <math.h>
 
-void main()
+int main(int argc, char * argv[])
 {
-    int i,j,k;
+	int i,j,contador,coun,k;
 	double cuenta, nolose;
-	FILE *fsoulcion;
 
-    for(i=0;i<10;i++)
-    {
-      printf("\nI = %d",i);  
-    }
+	FILE *fsolucion;
 
+	for(i=0;i<10;i++)
+	{
+		printf("\nI = %d",i);  
+	}
 
-    printf("\nAcabo el programa");
-
-	//COMENTARIO VACIO 33333
-	//COMENTARIO VACIO 2
-
-    return;
+	for(j=0;j<k;j++)
+	{
+		
+	}
+	
+	return 0;
 }
