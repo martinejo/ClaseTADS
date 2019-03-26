@@ -1,7 +1,5 @@
 language: c
 sudo: false # only for faster builds
 script:
-  - gcc -o prueba --coverage -fprofile-arcs main.c
+  - gcc main.c -o prueba
   - ./prueba
-  - gcov main.c
-  - cat main.c.gcov
