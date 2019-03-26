@@ -15,6 +15,7 @@ int main(int argc, char * argv[])
 		printf("\nI = %d",i);  
 	}
 	//com1
+	//com2
 	for(j=0;j<k;j++)
 	{
 		
