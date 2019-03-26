@@ -1,19 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main()
+void main(int argc, char * argv[])
 {
-    int i,j,k;
+	int i,j,k;
 	double cuenta, nolose;
-	FILE *fsoulcion;
+	FILE *fsolucion;
 
-    for(i=0;i<10;i++)
-    {
-      printf("\nI = %d",i);  
-    }
-
-
-    printf("\nAcabo el programa");
-
-    return;
+	for(i=0;i<10;i++)
+	{
+	printf("\nI = %d",i);  
+	}
+	printf("\nAcabo el programa");
 }
