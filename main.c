@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <Rembeded.h>
+#include <math.h>
 
 int main(int argc, char * argv[])
 {
