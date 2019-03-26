@@ -5,7 +5,7 @@
 
 int main(int argc, char * argv[])
 {
-	int i,j,k;
+	int i,j,contador,coun,k;
 	double cuenta, nolose;
 
 	for(i=0;i<10;i++)
